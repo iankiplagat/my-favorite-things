@@ -6,8 +6,6 @@ The purpose of the website is to help people understand me better and find a com
 ## Setup/Installation Requirements
 * The website does not have any specific setup requirements.
 * Simply copy the link and paste on your browser then run, or click on it and you will be directed to a web page.
-##Known Bugs
-No known bugs.
 ## Technologies Used
 HTML
 ## Support and contact details
